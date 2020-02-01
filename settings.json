@@ -1,0 +1,21 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.selectionHighlightBackground": "#c1b0ae",
+    },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3000,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.enablePreview": true,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.startupEditor": "welcomePage",
+    "editor.fontSize": 13,
+    "python.jediEnabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.gitCommands.closeOnFocusOut": true
+}
